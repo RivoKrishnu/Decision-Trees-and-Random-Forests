@@ -1,4 +1,4 @@
-Decision Trees and Random Forests
+###Decision Trees and Random Forests###
 
 Loaded the Heart Disease dataset and split it into training and test sets.
 
